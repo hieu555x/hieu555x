@@ -17,9 +17,3 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hieu555x&theme=tokyonight&hide_border=true&border_radius=5&locale=vi&date_format=j%20M%5B%20Y%5D&card_width=496)](https://git.io/streak-stats)
 
 ## My Recent Articles
-
-- [Native PHP: How to Start?](https://medium.com/@emma.ngo1110/native-php-how-to-start-911b27b40791)
-- [Making a Simple GitHub Profile](https://medium.com/@emma.ngo1110/making-a-simple-github-profile-13bd26a7f4d3)
-- [[Material Web 1.0] Material Design with a Web Platform (P1)](https://medium.com/@emma.ngo1110/material-web-1-0-material-design-with-a-web-platform-p1-efc850f36cdf)
-
-You can find all of my blog posts on my website: [bunhere.com](https://bunhere.com/blogs)
