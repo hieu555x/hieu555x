@@ -12,6 +12,8 @@
 
 ![Spader's GitHub stats](https://github-readme-stats.vercel.app/api?username=hieu555x&show_icons=true&bg_color=00000000)
 
+## GitHub Streak
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hieu555x&theme=tokyonight&hide_border=true&border_radius=5&locale=vi&date_format=j%20M%5B%20Y%5D&card_width=496)](https://git.io/streak-stats)
 
 ## My Recent Articles
