@@ -4,9 +4,11 @@
 - 🔥 Nickname: Spader
 - <img align="center" src="./img/facebook.png" title = "Twitter" alt="" height="20" /> Facebook: [/Spader](https://www.facebook.com/hieu.spader/)
 - <img align="center" src="./img/email1.png" title = "Twitter" alt="" height="20" /> Email: [hieu555x@gmail.com](mailto:hieu555x@gmail.com)
-- 🔥 Fresher engineer | DevOps | Gopher 🇻🇳
+- 🔥 Fresher mobile engineer 
 
 🖥️ I'm a fresher developer with a passion for building beautiful, functional, and scalable mobile applications. <br>
+
+<a href="https://app.daily.dev/spader"><img src="https://api.daily.dev/devcards/71ad73c290294198a935427524aba32e.png?r=j1c" width="400" alt="Spader's Dev Card"/></a>
 
 ## GitHub Streak Stats
 
