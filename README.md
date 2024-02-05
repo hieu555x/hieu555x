@@ -8,7 +8,7 @@
 
 🖥️ I'm a fresher developer with a passion for building beautiful, functional, and scalable mobile applications.
 
-<a href="https://app.daily.dev/spader"><img src="https://api.daily.dev/devcards/71ad73c290294198a935427524aba32e.png?r=j1c" width="400" alt="Spader's Dev Card"/></a>
+![Spader's GitHub DevCards]<a href="https://app.daily.dev/spader"><img src="https://api.daily.dev/devcards/71ad73c290294198a935427524aba32e.png?r=j1c" width="400" alt="Spader's Dev Card"/></a>
 <br>
 
 
